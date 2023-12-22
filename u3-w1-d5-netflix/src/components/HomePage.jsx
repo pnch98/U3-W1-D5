@@ -46,7 +46,7 @@ class HomePage extends Component {
                   <i class="bi bi-grid-3x3 fs-5"></i>
                 </div>
               </div>
-              <Gallery saga="star wars" title="Trending Now" setOk={this.setOk} setStatus={this.setStatus} />
+              <Gallery saga="american pie" title="Trending Now" setOk={this.setOk} setStatus={this.setStatus} />
               <Gallery saga="batman" title="Watch it Again" setOk={this.setOk} setStatus={this.setStatus} />
               <Gallery saga="harry potter" title="New Releases" setOk={this.setOk} setStatus={this.setStatus} />
             </>

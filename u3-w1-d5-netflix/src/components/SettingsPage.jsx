@@ -4,7 +4,7 @@ import { Col, Container, Row } from "react-bootstrap";
 class SettingsPage extends Component {
   render() {
     return (
-      <main className="d-flex justify-content-center bg-light">
+      <main className="d-flex justify-content-center bg-light py-2">
         <Container fluid className="d-flex flex-column align-items-start w-75 p-3">
           <h1>Account</h1>
           <div className="d-flex align-items-center align-items-lg-stretch flex-column w-100">
